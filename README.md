@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm h315uk3
 
-<!--
-**h315uk3/h315uk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focusing on Information Theory and AI Symbiosis.
 
-Here are some ideas to get you started:
+## Current Project
+| Name | Description |
+| --- | --- |
+| [Symbiosis](https://github.com/h315uk3/symbiosis) | Claude Code plugins: your extended memory + your thinking partner. Information theory & cognitive science in pure Python stdlib. Zero setup. |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Writing
+| Platform | Link |
+| --- | --- |
+| Zenn (Technical Articles) | https://zenn.dev/h315uk3 |
